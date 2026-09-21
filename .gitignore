@@ -2,3 +2,6 @@
 .venv/
 #IDE configurations + preferenzes
 .idea/
+#File di riferimento
+03.01 Machine Learning con MLlib.ipynb
+02.02.05 winequality_pipeline.ipynb
