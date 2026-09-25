@@ -1,8 +1,12 @@
 #Virtual environment
 .venv/
-#IDE configurations + preferenzes
+#Pycharm + IDE configurazioni
 .idea/
-#File di riferimento
-03.01 Machine Learning con MLlib.ipynb
-02.02.05 winequality_pipeline.ipynb
-Verifica_Conclusiva_PySpark.ipynb
+#Cache di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+#Log di Spark
+derby.log
+metastore_db/
