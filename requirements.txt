@@ -1,6 +1,7 @@
 pyspark>=4.2.0
 jupyter
 findspark
-pandas
+pandas>=2.0.0
+pyarrow>=14.0.0,<17.0.0
 numpy
 matplotlib
