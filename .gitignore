@@ -1,12 +1,18 @@
 #Virtual environment
 .venv/
+
 #Pycharm + IDE configurazioni
 .idea/
+
 #Cache di Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
 #Log di Spark
 derby.log
 metastore_db/
+
+#Traccia della consegna del 01.02
+Sviluppare Soluzioni Predittive in SPARK - Consegna.pdf
